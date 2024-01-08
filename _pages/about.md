@@ -11,9 +11,9 @@ profile:
   more_info: false
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 This is Yun Deng's personal site. I am a PhD student at UC Berkeley, working with Professor [Rasmus Nielsen](https://nielsen-lab.github.io/) and [Yun Song](https://people.eecs.berkeley.edu/~yss/). During PhD my research focuses on computational population genetics, an intersection of mathematics, computation and biology. 
