@@ -11,7 +11,7 @@ author_profile: true
 
 <div class="publication-item">
   <div class="publication-image">
-    <img src="/assets/images/publications/singer.jpeg" alt="SINGER">
+    <img src="/assets/images/singer.png" alt="SINGER">
   </div>
 
   <div class="publication-content">
