@@ -35,7 +35,7 @@ plugins:
 # Author sidebar
 author:
   name: "Yun Deng"
-  avatar: "/assets/images/profile.png"
+  avatar: "/assets/images/profile.jpeg"
   bio: "Computational population geneticist"
   location: "Stanford, CA"
   email: "yundeng@stanford.edu"
