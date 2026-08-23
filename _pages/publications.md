@@ -47,7 +47,7 @@ author_profile: true
 
 <div class="publication-item">
 <div class="publication-image">
-<img src="/assets/images/polegon.png" alt="POLEGON">
+<img src="/assets/images/branchlength.jpg" alt="POLEGON">
 </div>
 <div class="publication-content">
 <h4><a href="https://doi.org/10.1073/pnas.2504461122">A general framework for branch length estimation in Ancestral Recombination Graphs</a></h4>
@@ -69,7 +69,7 @@ author_profile: true
 
 <div class="publication-item">
 <div class="publication-image">
-<img src="/assets/images/arg-review.png" alt="ARG review">
+<img src="/assets/images/argreview.png" alt="ARG review">
 </div>
 <div class="publication-content">
 <h4><a href="https://www.nature.com/articles/s41576-024-00772-4">Inference and applications of ancestral recombination graphs</a></h4>
@@ -80,7 +80,7 @@ author_profile: true
 
 <div class="publication-item">
 <div class="publication-image">
-<img src="/assets/images/bottleneck.png" alt="Ancient bottleneck">
+<img src="/assets/images/bottleneck.jpg" alt="Ancient bottleneck">
 </div>
 <div class="publication-content">
 <h4><a href="https://doi.org/10.1093/genetics/iyae192">A previously reported bottleneck in human ancestry 900 kya is likely a statistical artifact</a></h4>
@@ -122,7 +122,7 @@ author_profile: true
 
 <div class="publication-item">
 <div class="publication-image">
-<img src="/assets/images/waiting-distances.png" alt="Waiting distances">
+<img src="/assets/images/Recombination.png" alt="Waiting distances">
 </div>
 <div class="publication-content">
 <h4><a href="https://doi.org/10.1016/j.tpb.2021.06.003">The distribution of waiting distances in ancestral recombination graphs</a></h4>
