@@ -47,31 +47,3 @@
   margin: 0 0 0.35em 0;
   line-height: 1.35;
 }
-
-/* Give publication pages more horizontal room */
-@media (min-width: 1024px) {
-  .page {
-    width: calc(100% - 260px);
-    padding-right: 2rem;
-  }
-
-  .page__inner-wrap {
-    max-width: 1100px;
-  }
-}
-
-@media (max-width: 768px) {
-  .publication-item {
-    flex-direction: column;
-  }
-
-  .publication-image {
-    width: 100%;
-    max-width: 320px;
-    height: auto;
-  }
-
-  .publication-image img {
-    height: auto;
-  }
-}
