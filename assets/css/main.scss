@@ -1,0 +1,67 @@
+---
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+.publication-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1.8em;
+  padding: 1em 0;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.publication-image {
+  flex: 0 0 210px;
+  margin-right: 1.2em;
+  height: 140px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+
+.publication-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.publication-content {
+  flex: 1;
+}
+
+.publication-content h4 {
+  margin: 0 0 0.3em 0;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.publication-content .journal-info {
+  margin-bottom: 0.25em;
+}
+
+.publication-content .authors {
+  margin-bottom: 0.3em;
+  line-height: 1.3;
+}
+
+.publication-content .doi-link {
+  margin-top: 0.2em;
+}
+
+@media (max-width: 768px) {
+  .publication-item {
+    flex-direction: column;
+  }
+
+  .publication-image {
+    width: 240px;
+    height: 160px;
+    margin-right: 0;
+    margin-bottom: 1em;
+  }
+}
