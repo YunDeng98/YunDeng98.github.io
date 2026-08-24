@@ -6,32 +6,19 @@ author_profile: true
 classes: wide
 ---
 
-## Education
-
-**Ph.D. in Computational Biology**, University of California, Berkeley  
-*Computational Biology Graduate Group*  
-December 2024  
-Advisors: Rasmus Nielsen and Yun S. Song
-
-**B.S.**, University of Chinese Academy of Sciences  
-*Biological Sciences, Mathematics*  
-Advisors: Dexing Zhang and Yong Zhang
-June 2019
-
-
-## Academic Positions
+## Education & Positions
 
 **Postdoctoral Scholar**, Stanford University  
 January 2025 – Present  
-Working with Jonathan Pritchard on developing novel downstream analyses of genome-wide genealogies inferred from modern genomic data.
+Advisor: Jonathan Pritchard
 
-**Graduate Student Researcher**, University of California, Berkeley  
-January 2021 – December 2024  
-Developed robust Bayesian inference methods for sampling genome-wide genealogies (ancestral recombination graphs) from large samples of whole-genome sequences.
+**Ph.D. in Computational Biology**, University of California, Berkeley  
+December 2024  
+Advisors: Rasmus Nielsen and Yun S. Song
 
-**Graduate Student Instructor**, University of California, Berkeley  
-August 2020 – December 2020  
-Teaching assistant for STAT 135: Concepts of Statistics.
+**B.S. in Biological Sciences and Mathematics**, University of Chinese Academy of Sciences  
+June 2019  
+Advisors: Dexing Zhang and Yong Zhang
 
 
 ## Awards and Honors
