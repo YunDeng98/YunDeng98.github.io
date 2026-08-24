@@ -36,7 +36,7 @@ Teaching assistant for STAT 135: Concepts of Statistics.
 
 ## Awards and Honors
 
-- **Genetics Society of America (GSA) James Crow Award Finalist**, Genetics Society of America, 2026
+- **James Crow Award Finalist**, Genetics Society of America, 2026
 - **Stanford Bio-X Postdoctoral Fellowship**, 2027
 - **Stanford School of Medicine Dean’s Postdoctoral Fellowship**, 2026
 - **Stanford Center for Evolutionary and Human Genetics Fellowship**, 2025
