@@ -60,10 +60,10 @@ classes: wide
 <div class="publication-content">
 <h4><a href="https://www.biorxiv.org/content/10.1101/2025.11.24.690249v1">Robustness of Ancestral Recombination Graph Inference Tools to Phasing Errors</a></h4>
 <p class="journal-info"><em>bioRxiv</em></p>
-<p class="authors">Wang, L., <strong>Deng, Y.</strong>, &amp; Nielsen, R. (2025).</p>
+<p class="authors">Wang, L.<sup>†</sup>, <strong>Deng, Y.</strong><sup>*</sup>, &amp; Nielsen, R.<sup>*</sup> (2025).</p>
+<p class="publication-note"><sup>†</sup> Undergraduate mentee &nbsp;&nbsp; <sup>*</sup> Co-corresponding authors</p>
 </div>
 </div>
-
 
 ## Published Articles
 
