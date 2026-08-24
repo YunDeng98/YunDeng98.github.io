@@ -9,6 +9,29 @@ author_profile: true
 
 <div class="publication-item">
 <div class="publication-image">
+<img src="/assets/images/coal_stat.png" alt="Coalescent-based time-stratified statistics">
+</div>
+<div class="publication-content">
+<h4><a href="https://www.biorxiv.org/content/10.64898/2026.08.11.744210v1">Coalescent-Based Time-Stratified Statistics Reveal Population Structure Dynamics using the Ancestral Recombination Graph</a></h4>
+<p class="journal-info"><em>bioRxiv</em></p>
+<p class="authors"><strong>Deng, Y.</strong>, Pritchard, J. K., &amp; Spence, J. P. (2026).</p>
+</div>
+</div>
+
+<div class="publication-item">
+<div class="publication-image">
+<img src="/assets/images/pan_pangenome.png" alt="Pan-pangenome">
+</div>
+<div class="publication-content">
+<h4><a href="https://doi.org/10.64898/2026.06.06.730619">A Pan-pangenome illuminates complex structural variation and selection in humans, chimpanzees, and bonobos</a></h4>
+<p class="journal-info"><em>bioRxiv</em></p>
+<p class="authors">Rocha, J. L., Lou, R. N., Adam, C. L., Hebbar, P., Ferguson, S., ... <strong>Deng, Y.</strong>, et al. (2026).</p>
+</div>
+</div>
+
+
+<div class="publication-item">
+<div class="publication-image">
 <img src="/assets/images/tskit.png" alt="tskit 1.0">
 </div>
 <div class="publication-content">
