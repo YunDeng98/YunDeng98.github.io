@@ -8,18 +8,20 @@ classes: wide
 
 ## Education & Positions
 
-**Postdoctoral Scholar**, Stanford University  
+**Postdoctoral Scholar**  
+Stanford University  
 January 2025 – Present  
 Advisor: Jonathan Pritchard
 
-**Ph.D. in Computational Biology**, University of California, Berkeley  
+**Ph.D. in Computational Biology**  
+University of California, Berkeley  
 December 2024  
 Advisors: Rasmus Nielsen and Yun S. Song
 
-**B.S. in Biological Sciences and Mathematics**, University of Chinese Academy of Sciences  
+**B.S. in Biological Sciences and Mathematics**  
+University of Chinese Academy of Sciences  
 June 2019  
 Advisors: Dexing Zhang and Yong Zhang
-
 
 ## Awards and Honors
 
