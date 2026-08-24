@@ -64,9 +64,9 @@ author_profile: true
 </div>
 
 
-## Publications
+## Published Articles
 
-### 2025 Publications
+### 2025
 
 <div class="publication-item">
 <div class="publication-image">
@@ -113,7 +113,7 @@ author_profile: true
 </div>
 
 
-### 2023 Publications
+### 2023
 
 <div class="publication-item">
 <div class="publication-image">
@@ -127,7 +127,7 @@ author_profile: true
 </div>
 
 
-### 2022 Publications
+### 2022
 
 <div class="publication-item">
 <div class="publication-image">
@@ -141,7 +141,7 @@ author_profile: true
 </div>
 
 
-### 2021 Publications
+### 2021
 
 <div class="publication-item">
 <div class="publication-image">
@@ -155,7 +155,7 @@ author_profile: true
 </div>
 
 
-### 2018 Publications
+### 2018
 
 <div class="publication-item">
 <div class="publication-image">
