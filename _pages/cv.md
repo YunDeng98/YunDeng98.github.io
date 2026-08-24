@@ -14,7 +14,8 @@ December 2024
 Advisors: Rasmus Nielsen and Yun S. Song
 
 **B.S.**, University of Chinese Academy of Sciences  
-*Biological Sciences and Mathematics*  
+*Biological Sciences, Mathematics*  
+Advisors: Dexing Zhang and Yong Zhang
 June 2019
 
 
@@ -35,7 +36,7 @@ Teaching assistant for STAT 135: Concepts of Statistics.
 
 ## Awards and Honors
 
-- **James Crow Award Finalist**, Genetics Society of America, 2026
+- **Genetics Society of America (GSA) James Crow Award Finalist**, Genetics Society of America, 2026
 - **Stanford Bio-X Postdoctoral Fellowship**, 2027
 - **Stanford School of Medicine Dean’s Postdoctoral Fellowship**, 2026
 - **Stanford Center for Evolutionary and Human Genetics Fellowship**, 2025
@@ -90,17 +91,3 @@ STAT 135: Concepts of Statistics, August – December 2020
 - **Dasheng Bi**, Undergraduate Student Researcher, September 2020 – May 2021
 - **Leyan Wang**, Undergraduate Student Researcher, December 2023 – Present
 - **Ziye Wang**, Undergraduate Student Researcher, July 2025 – Present
-
-
-## Reviewing
-
-Nature · Science · Nature Genetics · Proceedings of the National Academy of Sciences · PLOS Genetics · Genetics · Molecular Biology and Evolution · G3: Genes|Genomes|Genetics · Bioinformatics Advances
-
-
-## Skills
-
-**Programming:** C++, Python, R, MATLAB, Java
-
-**Graduate coursework:** Advanced Probability Theory, Advanced Statistics, Convex Optimization, Algorithms for Computational Biology, Probabilistic Models in Computational Biology, Statistical Phylogenetics
-
-**Undergraduate coursework:** Ordinary and Partial Differential Equations, Data Structures, Algorithm Design, Population Genetics
