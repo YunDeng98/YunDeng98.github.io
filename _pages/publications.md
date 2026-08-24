@@ -9,7 +9,7 @@ author_profile: true
 
 <div class="publication-item">
 <div class="publication-image">
-<img src="/assets/images/coal_stat.png" alt="Coalescent-based time-stratified statistics">
+<img src="/assets/images/coal_stats.png" alt="Coalescent-based time-stratified statistics">
 </div>
 <div class="publication-content">
 <h4><a href="https://www.biorxiv.org/content/10.64898/2026.08.11.744210v1">Coalescent-Based Time-Stratified Statistics Reveal Population Structure Dynamics using the Ancestral Recombination Graph</a></h4>
