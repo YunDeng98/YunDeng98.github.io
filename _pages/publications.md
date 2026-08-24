@@ -20,7 +20,7 @@ author_profile: true
 
 <div class="publication-item">
 <div class="publication-image">
-<img src="/assets/images/tree-thinking.png" alt="Tree Thinking">
+<img src="/assets/images/tree_thinking.png" alt="Tree Thinking">
 </div>
 <div class="publication-content">
 <h4><a href="https://arxiv.org/abs/2512.05499">Tree Thinking in the Genomic Era: Unifying Models Across Cells, Populations, and Species</a></h4>
@@ -31,7 +31,7 @@ author_profile: true
 
 <div class="publication-item">
 <div class="publication-image">
-<img src="/assets/images/phasing.png" alt="ARG phasing robustness">
+<img src="/assets/images/phasing_error.png" alt="ARG phasing robustness">
 </div>
 <div class="publication-content">
 <h4><a href="https://www.biorxiv.org/content/10.1101/2025.11.24.690249v1">Robustness of Ancestral Recombination Graph Inference Tools to Phasing Errors</a></h4>
@@ -94,7 +94,7 @@ author_profile: true
 
 <div class="publication-item">
 <div class="publication-image">
-<img src="/assets/images/cherryml.png" alt="CherryML">
+<img src="/assets/images/cherry_ml.png" alt="CherryML">
 </div>
 <div class="publication-content">
 <h4><a href="https://www.nature.com/articles/s41592-023-01917-9">CherryML: scalable maximum likelihood estimation of phylogenetic models</a></h4>
@@ -108,7 +108,7 @@ author_profile: true
 
 <div class="publication-item">
 <div class="publication-image">
-<img src="/assets/images/coalescence-times.png" alt="Coalescence time evaluation">
+<img src="/assets/images/argeval.png" alt="Coalescence time evaluation">
 </div>
 <div class="publication-content">
 <h4><a href="https://doi.org/10.1093/genetics/iyac044">Evaluation of methods for estimating coalescence times using ancestral recombination graphs</a></h4>
@@ -136,7 +136,7 @@ author_profile: true
 
 <div class="publication-item">
 <div class="publication-image">
-<img src="/assets/images/tad.png" alt="TAD detection">
+<img src="/assets/images/deDoc.png" alt="TAD detection">
 </div>
 <div class="publication-content">
 <h4><a href="https://www.nature.com/articles/s41467-018-05691-7">Decoding topologically associating domains with ultra-low resolution Hi-C data by graph structural entropy</a></h4>
