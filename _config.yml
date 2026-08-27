@@ -13,7 +13,7 @@ search: false
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 
 permalink: /:categories/:title/
 paginate: 5
@@ -36,7 +36,7 @@ plugins:
 author:
   name: "Yun Deng"
   avatar: "/assets/images/profile.jpeg"
-  bio: "Computational population geneticist"
+  bio: "Postdoc at Stanford University"
   location: "Stanford, CA"
   email: "yundeng@stanford.edu"
   links:
