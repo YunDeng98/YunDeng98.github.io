@@ -9,7 +9,7 @@ baseurl: ""
 repository: "YunDeng98/YunDeng98.github.io"
 
 minimal_mistakes_skin: "dark"
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
