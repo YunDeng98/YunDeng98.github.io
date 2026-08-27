@@ -14,7 +14,7 @@ Here are some topics which my research focuses on:
 
 <div class="research-overview">
 
-<div class="research-description">
+<div class="research-description" markdown="1">
 
 A core line of research in the group is the development of computational methods for **Ancestral Recombination Graphs (ARGs)**, a revolutionizing framework in population and evolutionary genetics that goes well beyond the capabilities of summary-statistics-based inference.
 
