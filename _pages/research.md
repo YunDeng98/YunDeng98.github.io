@@ -6,25 +6,35 @@ author_profile: true
 classes: wide
 ---
 
-I am mainly interested in developing mathematical computational methods to unveil novel insights from increasing rich biological datasets. 
+I am mainly interested in developing mathematical and computational methods to unveil novel insights from increasing rich biological datasets. 
 Recently, I am particularly interested in developing next-generation computational methods for evolutionary biology and population genetics, to achieve what previous methods cannot do. 
 Here are some topics which my research focuses on:
 
 ## Inference and analysis of Ancestral Recombination Graphs (ARGs)
 
-A core line of research in the group is the development of computational methods for **Ancestral Recombination Graphs (ARGs)**, 
-which describes the complete genetic history of every locus for every individual within the sequenced sample. 
-It is a revolutionizing framework in population and evolutionary genetics that goes well beyond the capabilities of summary-statistics-based inference. 
+<div class="research-overview">
 
-We are currently focusing on developing rigorous methods for using Ancestral Recombination Graphs for demographic and natural-selection inference. These efforts have so far resulted in:
+<div class="research-description">
 
-![Genome-wide genealogical inference](/assets/images/singer.png)
+A core line of research in the group is the development of computational methods for **Ancestral Recombination Graphs (ARGs)**, a revolutionizing framework in population and evolutionary genetics that goes well beyond the capabilities of summary-statistics-based inference.
 
-**Selected publications**
+We develop robust and accurate computational methods for inferring ARGs and aim at using them for novel population-genetic analysis. These efforts have resulted in methods including [SINGER](https://github.com/popgenmethods/SINGER) and [POLEGON](https://github.com/YunDeng98/POLEGON).
 
-- Nielsen, R., Vaughn, A. H., & **Deng, Y.** (2025). [Inference and applications of ancestral recombination graphs](YOUR_LINK). *Nature Reviews Genetics*.
-- **Deng, Y.**, Nielsen, R., & Song, Y. S. (2025). [Robust and accurate Bayesian inference of genome-wide genealogies for hundreds of genomes](https://www.nature.com/articles/s41588-025-02317-9). *Nature Genetics*.
-- **Deng, Y.**, Dewitt, W. S., Song, Y. S., & Nielsen, R. (2025) [A general framework for branch length estimation in Ancestral Recombination Graphs](https://www.pnas.org/doi/10.1073/pnas.2504461122). *Proceedings of the National Academy of Sciences*.
+</div>
+
+<div class="research-figure">
+<img src="/assets/images/YOUR_ARG_FIGURE.png" alt="Ancestral Recombination Graph research">
+</div>
+
+</div>
+
+### Selected Publications
+
+1. **Deng, Y.**, Nielsen, R., & Song, Y. S. (2025). [Robust and accurate Bayesian inference of genome-wide genealogies for hundreds of genomes](https://www.nature.com/articles/s41588-025-02317-9). *Nature Genetics*.
+
+2. **Deng, Y.**, DeWitt, W. S., Song, Y. S., & Nielsen, R. (2025). [A general framework for branch length estimation in Ancestral Recombination Graphs](https://doi.org/10.1073/pnas.2504461122). *PNAS*.
+
+3. Nielsen, R., Vaughn, A. H., & **Deng, Y.** (2025). [Inference and applications of ancestral recombination graphs](YOUR_LINK). *Nature Reviews Genetics*.
 
 ## Population structure and human evolutionary history
 
