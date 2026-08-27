@@ -23,7 +23,7 @@ We develop robust and accurate computational methods for inferring ARGs and aim 
 </div>
 
 <div class="research-figure">
-<img src="/assets/images/YOUR_ARG_FIGURE.png" alt="Ancestral Recombination Graph research">
+<img src="/assets/images/singer.png" alt="Ancestral Recombination Graph research">
 </div>
 
 </div>
