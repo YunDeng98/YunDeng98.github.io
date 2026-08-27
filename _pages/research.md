@@ -36,7 +36,7 @@ We develop robust and accurate computational methods for inferring ARGs and aim 
 
 3. Nielsen, R., Vaughn, A. H., & **Deng, Y.** (2025). [Inference and applications of ancestral recombination graphs](YOUR_LINK). *Nature Reviews Genetics*.
 
-## Population structure and human evolutionary history
+## Population structure and demographic history
 
 I develop genealogy-based approaches for studying population structure, local ancestry, admixture, and changes in population relationships through time.
 
