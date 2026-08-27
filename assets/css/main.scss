@@ -56,3 +56,37 @@
   font-size: 1.5rem !important;
   font-weight: 700;
 }
+
+.research-overview {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.research-description {
+  flex: 1.2;
+}
+
+.research-figure {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.research-figure img {
+  width: 100%;
+  max-width: 450px;
+  height: auto;
+  object-fit: contain;
+}
+
+@media (max-width: 768px) {
+  .research-overview {
+    flex-direction: column;
+  }
+
+  .research-figure img {
+    max-width: 100%;
+  }
+}
