@@ -18,7 +18,7 @@ Here are some topics which my research focuses on:
 
 A core line of research in the group is the development of computational methods for **Ancestral Recombination Graphs (ARGs)**, a revolutionizing framework in population and evolutionary genetics that goes well beyond the capabilities of summary-statistics-based inference.
 
-We develop robust and accurate computational methods for inferring ARGs and aim at using them for novel population-genetic analysis. These efforts have resulted in methods including [SINGER](https://github.com/popgenmethods/SINGER) and [POLEGON](https://github.com/YunDeng98/POLEGON).
+I develop robust and accurate computational methods for inferring ARGs and aim at using them for novel population-genetic analysis. These efforts have resulted in methods including [SINGER](https://github.com/popgenmethods/SINGER) and [POLEGON](https://github.com/YunDeng98/POLEGON).
 
 </div>
 
@@ -44,7 +44,7 @@ We develop robust and accurate computational methods for inferring ARGs and aim 
 
 Understanding **population structure and demographic history** is fundamental to population genetics. Patterns of genetic variation observed today reflect histories of population size changes, splits, migration, and admixture.
 
-I develop statistical and computational methods to reconstruct these processes from genomic data, with a particular interest in extracting information across different **timescales**. By combining genome-wide genealogies with population-genetic theory, I aim to reveal both recent and ancient demographic events and understand how population relationships change through time.
+I develop statistical and computational methods to reconstruct these processes from genomic data, with a particular interest in extracting information across different **timescales**. I am especially interested in identifying new signals that can overcome limitations of classical approaches. 
 
 </div>
 
