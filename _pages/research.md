@@ -38,11 +38,14 @@ We develop robust and accurate computational methods for inferring ARGs and aim 
 
 ## Population structure and demographic history
 
-I develop genealogy-based approaches for studying population structure, local ancestry, admixture, and changes in population relationships through time.
+Understanding **population structure and demographic history** is fundamental to population genetics. Patterns of genetic variation observed today reflect a complex history of population size changes, splits, migration, and admixture. I am interested in developing statistical and computational methods to reconstruct these processes and to understand how they shape patterns of genetic diversity.
+
+A particular focus of my research is extracting information about population history across different **timescales**. By developing new ARG-based population-genetic methods, I aim to reveal both recent and ancient demographic events, characterize changes in relationships among populations through time, and identify demographic processes that may be difficult to detect using conventional approaches. 
 
 ![Population structure through genealogies](/assets/images/coal_stats.png)
 
 **Selected publications**
 
-- Add selected ARG-MIX / population structure work here.
-- Add your coalescent time-stratified statistics preprint here.
+1. **Deng, Y.**, Pritchard, J. K., & Spence, J. P. (2026). [Coalescent-Based Time-Stratified Statistics Reveal Population Structure Dynamics using the Ancestral Recombination Graph](https://doi.org/10.64898/2026.08.11.744210). *bioRxiv*.
+
+2. **Deng, Y.**, Nielsen, R., & Song, Y. S. (2025). [A previously reported bottleneck in human ancestry 900 kya is likely a statistical artifact](https://doi.org/10.1093/genetics/iyae192). *Genetics*, 229(1), iyae192.
