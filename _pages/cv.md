@@ -77,6 +77,6 @@ STAT 135: Concepts of Statistics, August – December 2020
 
 ## Mentorship & Advising
 
-- **Leyan Wang**, December 2023 – Present. Now graduate student at UCLA.
+- **Leyan Wang**, Dec 2023 – Present. Now graduate student at UCLA.
 - **Ziye Wang**, July 2025 – Dec 2025. Now graduate student at UC Berkeley. 
-- **Dasheng Bi**, September 2020 – May 2021. Now graduate student at UC Berkeley. 
+- **Dasheng Bi**, Sep 2020 – May 2021. Now graduate student at UC Berkeley. 
