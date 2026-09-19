@@ -38,11 +38,21 @@ We develop robust and accurate computational methods for inferring ARGs and aim 
 
 ## Population structure and demographic history
 
-Understanding **population structure and demographic history** is fundamental to population genetics. Patterns of genetic variation observed today reflect a complex history of population size changes, splits, migration, and admixture. I am interested in developing statistical and computational methods to reconstruct these processes and to understand how they shape patterns of genetic diversity.
+<div class="research-overview">
 
-A particular focus of my research is extracting information about population history across different **timescales**. By developing new ARG-based population-genetic methods, I aim to reveal both recent and ancient demographic events, characterize changes in relationships among populations through time, and identify demographic processes that may be difficult to detect using conventional approaches. 
+<div class="research-description" markdown="1">
 
-![Population structure through genealogies](/assets/images/coal_stats.png)
+Understanding **population structure and demographic history** is fundamental to population genetics. Patterns of genetic variation observed today reflect histories of population size changes, splits, migration, and admixture.
+
+I develop statistical and computational methods to reconstruct these processes from genomic data, with a particular interest in extracting information across different **timescales**. By combining genome-wide genealogies with population-genetic theory, I aim to reveal both recent and ancient demographic events and understand how population relationships change through time.
+
+</div>
+
+<div class="research-figure">
+<img src="/assets/images/coal_stats.png" alt="Population structure and demographic history">
+</div>
+
+</div>
 
 **Selected publications**
 
