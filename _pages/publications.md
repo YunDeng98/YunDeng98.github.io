@@ -10,9 +10,7 @@ classes: wide
 
 - **Deng, Y.**, Pritchard, J. K., & Spence, J. P. (2026). [Coalescent-Based Time-Stratified Statistics Reveal Population Structure Dynamics using the Ancestral Recombination Graph](https://www.biorxiv.org/content/10.64898/2026.08.11.744210v1). *bioRxiv*.
 
-- Rocha, J. L., Lou, R. N., Adam, C. L., Hebbar, P., Ferguson, S., ... **Deng, Y.**, et al. (2026). [A Pan-pangenome illuminates complex structural variation and selection in humans, chimpanzees, and bonobos](https://doi.org/10.64898/2026.06.06.730619). *bioRxiv*.
-
-- Jeffery, B., Wong, Y., Thornton, K., Tsambos, G., Bisschop, G., **Deng, Y.**, et al. (2026). [Population-scale Ancestral Recombination Graphs with tskit 1.0](https://arxiv.org/abs/2602.09649). *arXiv*.
+- Rocha, J. L., Lou, R. N., Adam, C. L., Hebbar, P., Ferguson, S., Bolognini, D., Killilea, A., Hoekzema, K., Guarracino, A., **Deng, Y.**, Soranzo, N., Paten, B., Garrison, E., Pollen, A., Eichler, E. E., Rohlfs, R. V., Mitchell, M. W., & Sudmant, P. H. (2026). [A Pan-pangenome illuminates complex structural variation and selection in humans, chimpanzees, and bonobos](https://doi.org/10.64898/2026.06.06.730619). *bioRxiv*.
 
 - **Deng, Y.**, Zhan, S. H., Zhang, Y., Zhang, C., & Chen, B. (2025). [Tree Thinking in the Genomic Era: Unifying Models Across Cells, Populations, and Species](https://arxiv.org/abs/2512.05499). *arXiv*.
 
@@ -20,6 +18,11 @@ classes: wide
   <sup>†</sup> Undergraduate mentee; <sup>&#42;</sup> co-corresponding authors.
 
 ## Published Articles
+
+### 2026
+
+- Jeffery, B.<sup>†</sup>, Wong, Y.<sup>†</sup>, Thornton, K.<sup>†</sup>, Tsambos, G.<sup>†</sup>, Bisschop, G.<sup>‡</sup>, **Deng, Y.**<sup>‡</sup>, et al. (2026). [Population-scale ancestral recombination graphs with tskit 1.0](https://doi.org/10.1038/s41592-026-03325-1). *Nature Methods*.  
+  <sup>†</sup> Joint first authors; <sup>‡</sup> joint second authors.
 
 ### 2025
 
