@@ -8,7 +8,7 @@ url: "https://YunDeng98.github.io"
 baseurl: ""
 repository: "YunDeng98/YunDeng98.github.io"
 
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "default"
 search: false
 
 # Build settings
@@ -86,7 +86,6 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
-
 tag_archive:
   type: liquid
   path: /tags/
