@@ -10,7 +10,7 @@ classes: wide
 
 - **Deng, Y.**, Pritchard, J. K., & Spence, J. P. (2026). [Coalescent-Based Time-Stratified Statistics Reveal Population Structure Dynamics using the Ancestral Recombination Graph](https://www.biorxiv.org/content/10.64898/2026.08.11.744210v1). *bioRxiv*.
 
-- Rocha, J. L., Lou, R. N., Adam, C. L., Hebbar, P., Ferguson, S., Bolognini, D., Killilea, A., Hoekzema, K., Guarracino, A., **Deng, Y.**, ... (18 authors) (2026). [A Pan-pangenome illuminates complex structural variation and selection in humans, chimpanzees, and bonobos](https://doi.org/10.64898/2026.06.06.730619). *bioRxiv*.
+- Rocha, J. L., Lou, R. N., Adam, C. L., Hebbar, P., Ferguson, S., Bolognini, D., Killilea, A., Hoekzema, K., Guarracino, A., **Deng, Y.**, ... (5 authors omitted) ..., Rohlfs, R. V., Mitchell, M. W., & Sudmant, P. H. (2026). [A Pan-pangenome illuminates complex structural variation and selection in humans, chimpanzees, and bonobos](https://doi.org/10.64898/2026.06.06.730619). *bioRxiv*.
 
 - **Deng, Y.**, Zhan, S. H., Zhang, Y., Zhang, C., & Chen, B. (2025). [Tree Thinking in the Genomic Era: Unifying Models Across Cells, Populations, and Species](https://arxiv.org/abs/2512.05499). *arXiv*.
 
@@ -21,7 +21,7 @@ classes: wide
 
 ### 2026
 
-- Jeffery, B., Wong, Y., Thornton, K., Tsambos, G., Bisschop, G., **Deng, Y.**, ... (52 authors) (2026). [Population-scale ancestral recombination graphs with tskit 1.0](https://doi.org/10.1038/s41592-026-03325-1). *Nature Methods*.
+- Jeffery, B., Wong, Y., Thornton, K., Tsambos, G., Bisschop, G., **Deng, Y.**, ... (44 authors omitted) ..., Ralph, P., & Kelleher, J. (2026). [Population-scale ancestral recombination graphs with tskit 1.0](https://doi.org/10.1038/s41592-026-03325-1). *Nature Methods*.
 
 ### 2025
 
