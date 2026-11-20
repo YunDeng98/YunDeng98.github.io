@@ -16,8 +16,8 @@ classes: wide
 
 - **Deng, Y.**, Zhan, S. H., Zhang, Y., Zhang, C., & Chen, B. (2025). [Tree Thinking in the Genomic Era: Unifying Models Across Cells, Populations, and Species](https://arxiv.org/abs/2512.05499). *arXiv*.
 
-- Wang, L.<sup>†</sup>, **Deng, Y.**<sup>*</sup>, & Nielsen, R.<sup>*</sup> (2025). [Robustness of Ancestral Recombination Graph Inference Tools to Phasing Errors](https://www.biorxiv.org/content/10.1101/2025.11.24.690249v1). *bioRxiv*.  
-  <sup>†</sup> Undergraduate mentee; <sup>*</sup> co-corresponding authors.
+- Wang, L.<sup>†</sup>, **Deng, Y.**<sup>&#42;</sup>, & Nielsen, R.<sup>&#42;</sup> (2025). [Robustness of Ancestral Recombination Graph Inference Tools to Phasing Errors](https://www.biorxiv.org/content/10.1101/2025.11.24.690249v1). *bioRxiv*.  
+  <sup>†</sup> Undergraduate mentee; <sup>&#42;</sup> co-corresponding authors.
 
 ## Published Articles
 
