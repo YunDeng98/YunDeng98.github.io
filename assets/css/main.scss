@@ -6,52 +6,6 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-.publication-item {
-  display: flex;
-  align-items: center;
-  gap: 1.6rem;
-  margin: 1.3rem 0 2rem;
-  padding-bottom: 1.5rem;
-  border-bottom: 1px solid #666;
-}
-
-.publication-image {
-  flex: 0 0 240px;
-  margin: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.publication-image img {
-  width: 100%;
-  height: auto;
-  max-height: 180px;
-  object-fit: contain;
-  border-radius: 6px;
-  background: white;
-}
-
-.publication-content {
-  flex: 1 1 auto;
-  min-width: 0;
-}
-
-.publication-content h4 {
-  margin: 0 0 0.3rem;
-  font-size: 1rem;
-  line-height: 1.3;
-}
-
-.publication-content .journal-info {
-  margin: 0 0 0.25em 0;
-}
-
-.publication-content .authors {
-  margin: 0 0 0.35em 0;
-  line-height: 1.35;
-}
-
 .masthead .site-title {
   font-size: 1.5rem !important;
   font-weight: 700;
