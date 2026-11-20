@@ -8,163 +8,41 @@ classes: wide
 
 ## Preprints
 
-<div class="publication-item">
-<div class="publication-image">
-<img src="/assets/images/coal_stats.png" alt="Coalescent-based time-stratified statistics">
-</div>
-<div class="publication-content">
-<h4><a href="https://www.biorxiv.org/content/10.64898/2026.08.11.744210v1">Coalescent-Based Time-Stratified Statistics Reveal Population Structure Dynamics using the Ancestral Recombination Graph</a></h4>
-<p class="journal-info"><em>bioRxiv</em></p>
-<p class="authors"><strong>Deng, Y.</strong>, Pritchard, J. K., &amp; Spence, J. P. (2026).</p>
-</div>
-</div>
+- **Deng, Y.**, Pritchard, J. K., & Spence, J. P. (2026). [Coalescent-Based Time-Stratified Statistics Reveal Population Structure Dynamics using the Ancestral Recombination Graph](https://www.biorxiv.org/content/10.64898/2026.08.11.744210v1). *bioRxiv*.
 
-<div class="publication-item">
-<div class="publication-image">
-<img src="/assets/images/pan_pangenome.png" alt="Pan-pangenome">
-</div>
-<div class="publication-content">
-<h4><a href="https://doi.org/10.64898/2026.06.06.730619">A Pan-pangenome illuminates complex structural variation and selection in humans, chimpanzees, and bonobos</a></h4>
-<p class="journal-info"><em>bioRxiv</em></p>
-<p class="authors">Rocha, J. L., Lou, R. N., Adam, C. L., Hebbar, P., Ferguson, S., ... <strong>Deng, Y.</strong>, et al. (2026).</p>
-</div>
-</div>
+- Rocha, J. L., Lou, R. N., Adam, C. L., Hebbar, P., Ferguson, S., ... **Deng, Y.**, et al. (2026). [A Pan-pangenome illuminates complex structural variation and selection in humans, chimpanzees, and bonobos](https://doi.org/10.64898/2026.06.06.730619). *bioRxiv*.
 
+- Jeffery, B., Wong, Y., Thornton, K., Tsambos, G., Bisschop, G., **Deng, Y.**, et al. (2026). [Population-scale Ancestral Recombination Graphs with tskit 1.0](https://arxiv.org/abs/2602.09649). *arXiv*.
 
-<div class="publication-item">
-<div class="publication-image">
-<img src="/assets/images/tskit.png" alt="tskit 1.0">
-</div>
-<div class="publication-content">
-<h4><a href="https://arxiv.org/abs/2602.09649">Population-scale Ancestral Recombination Graphs with tskit 1.0</a></h4>
-<p class="journal-info"><em>arXiv</em></p>
-<p class="authors">Jeffery, B., Wong, Y., Thornton, K., Tsambos, G., Bisschop, G., <strong>Deng, Y.</strong>, et al. (2026).</p>
-</div>
-</div>
+- **Deng, Y.**, Zhan, S. H., Zhang, Y., Zhang, C., & Chen, B. (2025). [Tree Thinking in the Genomic Era: Unifying Models Across Cells, Populations, and Species](https://arxiv.org/abs/2512.05499). *arXiv*.
 
-<div class="publication-item">
-<div class="publication-image">
-<img src="/assets/images/tree_thinking.png" alt="Tree Thinking">
-</div>
-<div class="publication-content">
-<h4><a href="https://arxiv.org/abs/2512.05499">Tree Thinking in the Genomic Era: Unifying Models Across Cells, Populations, and Species</a></h4>
-<p class="journal-info"><em>arXiv</em></p>
-<p class="authors"><strong>Deng, Y.</strong>, Zhan, S. H., Zhang, Y., Zhang, C., &amp; Chen, B. (2025).</p>
-</div>
-</div>
-
-<div class="publication-item">
-<div class="publication-image">
-<img src="/assets/images/phasing_error.png" alt="ARG phasing robustness">
-</div>
-<div class="publication-content">
-<h4><a href="https://www.biorxiv.org/content/10.1101/2025.11.24.690249v1">Robustness of Ancestral Recombination Graph Inference Tools to Phasing Errors</a></h4>
-<p class="journal-info"><em>bioRxiv</em></p>
-<p class="authors">Wang, L.<sup>†</sup>, <strong>Deng, Y.</strong><sup>*</sup>, &amp; Nielsen, R.<sup>*</sup> (2025).</p>
-<p class="publication-note"><sup>†</sup> Undergraduate mentee &nbsp;&nbsp; <sup>*</sup> Co-corresponding authors</p>
-</div>
-</div>
+- Wang, L.<sup>†</sup>, **Deng, Y.**<sup>*</sup>, & Nielsen, R.<sup>*</sup> (2025). [Robustness of Ancestral Recombination Graph Inference Tools to Phasing Errors](https://www.biorxiv.org/content/10.1101/2025.11.24.690249v1). *bioRxiv*.  
+  <sup>†</sup> Undergraduate mentee; <sup>*</sup> co-corresponding authors.
 
 ## Published Articles
 
 ### 2025
 
-<div class="publication-item">
-<div class="publication-image">
-<img src="/assets/images/branchlength.jpg" alt="POLEGON">
-</div>
-<div class="publication-content">
-<h4><a href="https://doi.org/10.1073/pnas.2504461122">A general framework for branch length estimation in Ancestral Recombination Graphs</a></h4>
-<p class="journal-info"><em>Proceedings of the National Academy of Sciences</em></p>
-<p class="authors"><strong>Deng, Y.</strong>, DeWitt, W. S., Song, Y. S., &amp; Nielsen, R. (2025).</p>
-</div>
-</div>
+- **Deng, Y.**, DeWitt, W. S., Song, Y. S., & Nielsen, R. (2025). [A general framework for branch length estimation in Ancestral Recombination Graphs](https://doi.org/10.1073/pnas.2504461122). *Proceedings of the National Academy of Sciences*.
 
-<div class="publication-item">
-<div class="publication-image">
-<img src="/assets/images/singer.png" alt="SINGER">
-</div>
-<div class="publication-content">
-<h4><a href="https://www.nature.com/articles/s41588-025-02317-9">Robust and accurate Bayesian inference of genome-wide genealogies for hundreds of genomes</a></h4>
-<p class="journal-info"><em>Nature Genetics</em></p>
-<p class="authors"><strong>Deng, Y.</strong>, Nielsen, R., &amp; Song, Y. S. (2025).</p>
-</div>
-</div>
+- **Deng, Y.**, Nielsen, R., & Song, Y. S. (2025). [Robust and accurate Bayesian inference of genome-wide genealogies for hundreds of genomes](https://www.nature.com/articles/s41588-025-02317-9). *Nature Genetics*.
 
-<div class="publication-item">
-<div class="publication-image">
-<img src="/assets/images/argreview.png" alt="ARG review">
-</div>
-<div class="publication-content">
-<h4><a href="https://www.nature.com/articles/s41576-024-00772-4">Inference and applications of ancestral recombination graphs</a></h4>
-<p class="journal-info"><em>Nature Reviews Genetics</em></p>
-<p class="authors">Nielsen, R., Vaughn, A. H., &amp; <strong>Deng, Y.</strong> (2025).</p>
-</div>
-</div>
+- Nielsen, R., Vaughn, A. H., & **Deng, Y.** (2025). [Inference and applications of ancestral recombination graphs](https://www.nature.com/articles/s41576-024-00772-4). *Nature Reviews Genetics*.
 
-<div class="publication-item">
-<div class="publication-image">
-<img src="/assets/images/bottleneck.jpg" alt="Ancient bottleneck">
-</div>
-<div class="publication-content">
-<h4><a href="https://doi.org/10.1093/genetics/iyae192">A previously reported bottleneck in human ancestry 900 kya is likely a statistical artifact</a></h4>
-<p class="journal-info"><em>Genetics</em></p>
-<p class="authors"><strong>Deng, Y.</strong>, Nielsen, R., &amp; Song, Y. S. (2025).</p>
-</div>
-</div>
-
+- **Deng, Y.**, Nielsen, R., & Song, Y. S. (2025). [A previously reported bottleneck in human ancestry 900 kya is likely a statistical artifact](https://doi.org/10.1093/genetics/iyae192). *Genetics*.
 
 ### 2023
 
-<div class="publication-item">
-<div class="publication-image">
-<img src="/assets/images/cherry_ml.png" alt="CherryML">
-</div>
-<div class="publication-content">
-<h4><a href="https://www.nature.com/articles/s41592-023-01917-9">CherryML: scalable maximum likelihood estimation of phylogenetic models</a></h4>
-<p class="journal-info"><em>Nature Methods</em></p>
-<p class="authors">Prillo, S., <strong>Deng, Y.</strong>, Boyeau, P., Li, X., Chen, P.-Y., &amp; Song, Y. S. (2023).</p>
-</div>
-</div>
-
+- Prillo, S., **Deng, Y.**, Boyeau, P., Li, X., Chen, P.-Y., & Song, Y. S. (2023). [CherryML: scalable maximum likelihood estimation of phylogenetic models](https://www.nature.com/articles/s41592-023-01917-9). *Nature Methods*.
 
 ### 2022
 
-<div class="publication-item">
-<div class="publication-image">
-<img src="/assets/images/argeval.png" alt="Coalescence time evaluation">
-</div>
-<div class="publication-content">
-<h4><a href="https://doi.org/10.1093/genetics/iyac044">Evaluation of methods for estimating coalescence times using ancestral recombination graphs</a></h4>
-<p class="journal-info"><em>Genetics</em></p>
-<p class="authors">Brandt, D. Y. C., Wei, X., <strong>Deng, Y.</strong>, Vaughn, A. H., &amp; Nielsen, R. (2022).</p>
-</div>
-</div>
-
+- Brandt, D. Y. C., Wei, X., **Deng, Y.**, Vaughn, A. H., & Nielsen, R. (2022). [Evaluation of methods for estimating coalescence times using ancestral recombination graphs](https://doi.org/10.1093/genetics/iyac044). *Genetics*.
 
 ### 2021
 
-<div class="publication-item">
-<div class="publication-image">
-<img src="/assets/images/Recombination.png" alt="Waiting distances">
-</div>
-<div class="publication-content">
-<h4><a href="https://doi.org/10.1016/j.tpb.2021.06.003">The distribution of waiting distances in ancestral recombination graphs</a></h4>
-<p class="journal-info"><em>Theoretical Population Biology</em></p>
-<p class="authors"><strong>Deng, Y.</strong>, Song, Y. S., &amp; Nielsen, R. (2021).</p>
-</div>
-</div>
-
+- **Deng, Y.**, Song, Y. S., & Nielsen, R. (2021). [The distribution of waiting distances in ancestral recombination graphs](https://doi.org/10.1016/j.tpb.2021.06.003). *Theoretical Population Biology*.
 
 ### 2018
 
-<div class="publication-item">
-<div class="publication-image">
-<img src="/assets/images/deDoc.png" alt="TAD detection">
-</div>
-<div class="publication-content">
-<h4><a href="https://www.nature.com/articles/s41467-018-05691-7">Decoding topologically associating domains with ultra-low resolution Hi-C data by graph structural entropy</a></h4>
-<p class="journal-info"><em>Nature Communications</em></p>
-<p class="authors">Li, A., Yin, X., Xu, B., Wang, D., Han, J., Wei, Y., <strong>Deng, Y.</strong>, Xiong, Y., &amp; Zhang, Z. (2018).</p>
-</div>
-</div>
+- Li, A., Yin, X., Xu, B., Wang, D., Han, J., Wei, Y., **Deng, Y.**, Xiong, Y., & Zhang, Z. (2018). [Decoding topologically associating domains with ultra-low resolution Hi-C data by graph structural entropy](https://www.nature.com/articles/s41467-018-05691-7). *Nature Communications*.
